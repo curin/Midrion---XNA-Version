@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.dbtgaming.Game", "PortfolioGame\PortfolioGame\com.dbtgaming.Game.csproj", "{E606CC5A-7C74-4505-AD44-2ABB89EFB5AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortfolioGameContent", "PortfolioGame\PortfolioGameContent\PortfolioGameContent.contentproj", "{05510AC9-4C3E-48C3-8843-7C284C773550}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.dbtgaming.Library", "PortfolioGame.Library\com.dbtgaming.Library.csproj", "{B0DADDF2-6714-4DC6-A423-CA4C4A1DB610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.dbtgaming.Library.Engine2D", "com.dbtgaming.Library.Engine2D\com.dbtgaming.Library.Engine2D.csproj", "{B41C16A1-178B-4C44-B070-84155FC6CA1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.dbtgaming.Game.Library", "com.dbtgaming.Game.Library\com.dbtgaming.Game.Library.csproj", "{96B5DCCE-F7CF-44D0-B062-8DA2D3123E88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{72303AC5-AD41-43DC-A51C-1385DB237447}"
+	ProjectSection(SolutionItems) = preProject
+		Todolist.txt = Todolist.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dbtgaming.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = com.dbtgaming.Game.Library\\com.dbtgaming.Game.Library.csproj
+		SccProjectName1 = com.dbtgaming.Game.Library
+		SccLocalPath1 = com.dbtgaming.Game.Library
+		SccProjectUniqueName2 = com.dbtgaming.Library.Engine2D\\com.dbtgaming.Library.Engine2D.csproj
+		SccProjectName2 = com.dbtgaming.Library.Engine2D
+		SccLocalPath2 = com.dbtgaming.Library.Engine2D
+		SccProjectUniqueName3 = PortfolioGame.Library\\com.dbtgaming.Library.csproj
+		SccProjectName3 = PortfolioGame.Library
+		SccLocalPath3 = PortfolioGame.Library
+		SccProjectUniqueName4 = PortfolioGame\\PortfolioGame\\com.dbtgaming.Game.csproj
+		SccProjectName4 = PortfolioGame/PortfolioGame
+		SccLocalPath4 = PortfolioGame\\PortfolioGame
+		SccProjectUniqueName5 = PortfolioGame\\PortfolioGameContent\\PortfolioGameContent.contentproj
+		SccProjectName5 = PortfolioGame/PortfolioGameContent
+		SccLocalPath5 = PortfolioGame\\PortfolioGameContent
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E606CC5A-7C74-4505-AD44-2ABB89EFB5AB}.Debug|x86.ActiveCfg = Debug|x86
+		{E606CC5A-7C74-4505-AD44-2ABB89EFB5AB}.Debug|x86.Build.0 = Debug|x86
+		{E606CC5A-7C74-4505-AD44-2ABB89EFB5AB}.Release|x86.ActiveCfg = Release|x86
+		{E606CC5A-7C74-4505-AD44-2ABB89EFB5AB}.Release|x86.Build.0 = Release|x86
+		{05510AC9-4C3E-48C3-8843-7C284C773550}.Debug|x86.ActiveCfg = Debug|x86
+		{05510AC9-4C3E-48C3-8843-7C284C773550}.Release|x86.ActiveCfg = Release|x86
+		{B0DADDF2-6714-4DC6-A423-CA4C4A1DB610}.Debug|x86.ActiveCfg = Debug|x86
+		{B0DADDF2-6714-4DC6-A423-CA4C4A1DB610}.Debug|x86.Build.0 = Debug|x86
+		{B0DADDF2-6714-4DC6-A423-CA4C4A1DB610}.Release|x86.ActiveCfg = Release|x86
+		{B0DADDF2-6714-4DC6-A423-CA4C4A1DB610}.Release|x86.Build.0 = Release|x86
+		{B41C16A1-178B-4C44-B070-84155FC6CA1F}.Debug|x86.ActiveCfg = Debug|x86
+		{B41C16A1-178B-4C44-B070-84155FC6CA1F}.Debug|x86.Build.0 = Debug|x86
+		{B41C16A1-178B-4C44-B070-84155FC6CA1F}.Release|x86.ActiveCfg = Release|x86
+		{B41C16A1-178B-4C44-B070-84155FC6CA1F}.Release|x86.Build.0 = Release|x86
+		{96B5DCCE-F7CF-44D0-B062-8DA2D3123E88}.Debug|x86.ActiveCfg = Debug|x86
+		{96B5DCCE-F7CF-44D0-B062-8DA2D3123E88}.Debug|x86.Build.0 = Debug|x86
+		{96B5DCCE-F7CF-44D0-B062-8DA2D3123E88}.Release|x86.ActiveCfg = Release|x86
+		{96B5DCCE-F7CF-44D0-B062-8DA2D3123E88}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
